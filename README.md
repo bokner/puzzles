@@ -1,2 +1,3 @@
-# Puzzles, riddles and solutions using constraint programming
+# Puzzles and riddles, solved with constraint programming.
+
 
