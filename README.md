@@ -1,2 +1,2 @@
-# Puzzles, riddles and solutions using constraint solvers
+# Puzzles, riddles and solutions using constraint programming
 
